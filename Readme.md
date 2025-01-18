@@ -21,9 +21,15 @@ The insights gained are valuable for business decision-making and consumer behav
 
 ## 🚀 How to Run
 1. 📥 **Clone the repository**.
-2. ⚙️ **Install the required dependencies**.
-3. 📓 **Open the notebook** `Project on EDA - Shopping Trends Analysis.ipynb` in Jupyter Notebook.
-4. ▶️ **Run the cells sequentially**.
+   ```bash
+   git clone https://github.com/Shubham-Tambei9/Identifying-Shopping-Trends-Using-Data-Analysis.git
+3. ⚙️ **Install the required dependencies**.
+   ```bash
+   !pip install WordCloud
+5. 📓 **Open the notebook** `Project on EDA - Shopping Trends Analysis.ipynb` in Jupyter Notebook.
+    ```bash
+   jupyter notebook "Project on EDA - Shopping Trends Analysis.ipynb"
+7. ▶️ **Run the cells sequentially**.
 
 ## 📌 Results
 The project provides visualizations and insights into key shopping trends, such as:
